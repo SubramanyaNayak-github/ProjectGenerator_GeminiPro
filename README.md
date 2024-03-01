@@ -4,9 +4,6 @@
 
 *This Streamlit app generates project ideas and guidelines for data-related roles.*
 
-### Access the App
-
-You can access the [app](https://subramanyanayak-github-projectgenerator-geminipro-main-dsau2d.streamlit.app/) here.
 
 ### Instructions
 
